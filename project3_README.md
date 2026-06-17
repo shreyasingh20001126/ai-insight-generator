@@ -6,7 +6,7 @@
 ![Claude AI](https://img.shields.io/badge/Claude-AI%20Powered-purple?style=flat-square)
 
 ## 🔗 Live Demo
-👉 [Try the Live App](#) ← add your Streamlit link
+👉 https://ai-insight-generator-a36jcmxuyybs2ihsgznna2.streamlit.app/
 
 ---
 
